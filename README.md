@@ -1,7 +1,6 @@
 # RenomTom
-=================================================
-||             Application RenomTom            ||
-||            Créée par BERNE Thomas           ||
+
+Créée par BERNE Thomas
 =================================================
 Liste des fichiers :
 
